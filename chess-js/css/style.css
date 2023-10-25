@@ -1,0 +1,28 @@
+table {
+	margin: auto;
+	border: 1px solid black;
+}
+td {
+	width: 90px;
+	height: 90px;
+}
+.belo_polje {
+	background-color: #eeeed2;
+	border: 2px solid transparent;
+	
+}
+.crno_polje {
+	background-color: #769656;
+	border: 2px solid transparent;
+}
+img {
+	margin: auto;
+	height: 60px;
+}
+.polje_div {
+	height: 100%;
+	width: 100%;
+	text-align: center;
+	vertical-align: middle;
+	display: flex;
+}
